@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Economics at Virginia Tech.  My research interests inc
 Macroeconomic Nowcasting and Forecasting, Time Series Econometrics, Vector Autoregressive Models, Statistical Adequacy, and Big
 Data Econometrics.
 
-My Resume: [Updated 1/16/2022](https://www.dropbox.com/s/k8hpw1j1c8ddtl9/Resume%20January%202022.pdf?dl=0)
+Resume Link: [Updated 4/28/2022](https://www.dropbox.com/s/n6jr9qdxb97ln9q/Resume%20May%202022.pdf?dl=0)
 ------
 
 

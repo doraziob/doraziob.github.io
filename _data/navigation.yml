@@ -1,7 +1,14 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: /cv/	
+
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Posts and Tutorials"
+    url: /year-archive/	     
 
 #  - title: "Academic Experience"
 #    url: /experience/    
